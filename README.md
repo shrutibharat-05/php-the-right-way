@@ -3,7 +3,6 @@
 ## Overview
 
 
-
 This is the GitHub Pages repository for the _PHP: The Right Way_ project.
 
 * This website is a Jekyll project.
