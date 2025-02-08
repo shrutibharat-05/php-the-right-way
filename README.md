@@ -1,4 +1,4 @@
-# PHP: The Right Way__
+# PHP: The Right Way
 
 ## Overview
 
