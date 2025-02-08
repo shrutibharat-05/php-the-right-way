@@ -1,8 +1,6 @@
 # PHP: The Right Way
 
-## Overview
-
-
+## Overview:
 
 
 
